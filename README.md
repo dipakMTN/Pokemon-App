@@ -31,7 +31,7 @@ This project is a React Native application that implements a user home page for 
 1. Clone the repository:
 
 ```
-git clone <repository_url>
+git clone https://github.com/dipakMTN/Pokemon-App.git
 ```
 
 2. Install dependencies:
